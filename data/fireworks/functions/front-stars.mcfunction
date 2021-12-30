@@ -1,0 +1,1 @@
+execute at @e[type=armor_stand,tag=1] run summon firework_rocket ~ ~ ~ {LifeTime:0,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:1,Explosions:[{Type:2,Flicker:1,Trail:0,Colors:[I;11743532,8073150],FadeColors:[I;0]}]}}}}
