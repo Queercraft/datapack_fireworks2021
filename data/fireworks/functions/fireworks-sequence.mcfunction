@@ -64,9 +64,9 @@ schedule function fireworks:centermid-creeper 44s append
 
 schedule function fireworks:topsides-ball 45s append
 
-schedule function fireworks:top-stars-alt 47s append
-schedule function fireworks:mid-balls 47.2s append
-schedule function fireworks:bottom-burst 47.4s append
-schedule function fireworks:topsides-ts5 47.5s append
-schedule function fireworks:left-stars 48s
-schedule function fireworks:right-stars 48s
+schedule function fireworks:top-stars-alt 46s append
+schedule function fireworks:mid-balls 47s append
+schedule function fireworks:bottom-burst 48s append
+schedule function fireworks:topsides-ts5 49s append
+schedule function fireworks:left-stars 50s
+schedule function fireworks:right-stars 50s
