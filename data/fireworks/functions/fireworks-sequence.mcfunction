@@ -13,7 +13,7 @@ schedule function fireworks:sides-sequence 10s append
 schedule function fireworks:top-stars-alt 12s append
 schedule function fireworks:ground-sequence 12s append
 
-schedule function fireworks:sides-burst 13s append
+schedule function fireworks:sides-burst 13.8s append
 schedule function fireworks:centermid-creeper 14s append
 
 schedule function fireworks:sides-sequence-reverse 15s append
